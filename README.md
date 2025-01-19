@@ -8,6 +8,7 @@ currently i am doing fundamental research in machine learning, specifically focu
 other than that i learn about devops & pentesting in my spare time.
 
 contact me via: mail@erik.gdn ([keys/alternatives](https://erik.gdn/contact))
+
 ![](https://komarev.com/ghpvc/?username=erikgoldenstein&color=blue&label=visitors&style=flat)
 
 <!--
